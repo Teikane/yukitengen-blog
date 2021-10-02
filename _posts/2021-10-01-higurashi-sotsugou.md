@@ -38,7 +38,7 @@ I have almost 100% convince myself Sotsu elongated setup solely to get episode 3
 <details>
   <summary>Click to show spoilers. Themes and Narrative</summary>
 
-Original themes has always been a lack in bonds and communication would lead to sin. Mental illnesses and sympathy are also major motifs. Gou and Sotsu is one way to logical follow up on these ideas. It is the excessive clinging to bonds that results in this round of tragedy. 
+A theme in the original story is the lack in bonds and communication would lead to sin. Mental illnesses is also a major motif. Gou and Sotsu is one way to logical follow up on these ideas. It is the excessive clinging to bonds that results in this round of tragedy. 
 
 Sotsu Episode 14 was a nice visual treat it was mainly a flashy way of saying Rika and Satoko needed to confront each other. The root of the problem was shown during Satokowashi and it is the 
 
