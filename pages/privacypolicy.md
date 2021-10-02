@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Private policy
+title: privacy policy
 meta_description: ""
-permalink: /privatepolicy
-section: private policy
+permalink: /privacypolicy
+section: privacy policy
 intro_paragraph: ""
 ---
 
