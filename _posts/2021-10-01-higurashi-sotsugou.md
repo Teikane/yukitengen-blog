@@ -47,18 +47,18 @@ Now Sotsu issues stems from having to retrace very similar events. There are som
 <details>
   <summary>Click to show spoilers. Themes</summary>
 
-<pre>A theme from the original story is the lack in bonds and communication would lead to sinful tragedy. Mental illnesses is also a major motif. Gou and Sotsu is one way to follow up on these ideas. It is the excessive clinging to bonds that results in this round of tragedy.
+> A theme from the original story is the lack in bonds and communication would lead to sinful tragedy. Mental illnesses is also a major motif. Gou and Sotsu is one way to follow up on these ideas. It is the excessive clinging to bonds that results in this round of tragedy.
+>
+> The root of the problem was shown during Satokowashi where Rika's dream and Satoko's dream are in conflict. A scenario that can occur during graduation where friends have to choose to split up for other life events. We are shown why Satoko does not like her lifestyle when following Rika to a strict school. Satoko faces deteriorating mental health with signs of abandonment and was not able to healthy cope with the new environment.
+>
+> Satoko descent into madness shows once again the extremes people can reach in a stressful situation. Many times minor issue can escalate and everyone in part could have address the issue if they could have been more empathic. Rika could have push the issue with Satoko at St. Lucia earlier especially after the prank incident. That communication never took place and it lead to another loop of tragedy.
+>
+> Sotsu Episode 14 was a nice visual treat but it was mainly a flashy way of saying Rika and Satoko needed to confront each other. In the end both, parties have dreams in direct conflict. They express why the other is not able to fulfill each other's dream and the solution is to go their separate ways to purse the next best option. Moving on to their own lives does not mean forsaking the other for all eternity. There will always be chances in the future to reconnect. 
+>
+> Lesson is that both parties need to communicate and agree that their dreams may not workout but they still can hold onto their bonds of friendship.  Sotsu ends with a new version of You to fit into the new themes. 
+>
+> It can just be Ryukishi saw people still have clinging attachments to Higurashi and is telling us to move on to something new.
 
-The root of the problem was shown during Satokowashi where Rika's dream and Satoko's dream are in conflict. A scenario that can occur during graduation where friends have to choose to split up for other life events. We are shown why Satoko does not like her lifestyle when following Rika to a strict school. Satoko faces deteriorating mental health with signs of abandonment and was not able to healthy cope with the new environment.
-
-Satoko descent into madness shows once again the extremes people can reach in a stressful situation. Many times minor issue can escalate and everyone in part could have address the issue if they could have been more empathic. Rika could have push the issue with Satoko at St. Lucia earlier especially after the prank incident. That communication never took place and it lead to another loop of tragedy.
-
-Sotsu Episode 14 was a nice visual treat but it was mainly a flashy way of saying Rika and Satoko needed to confront each other. In the end both, parties have dreams in direct conflict. They express why the other is not able to fulfill each other's dream and the solution is to go their separate ways to purse the next best option. Moving on to their own lives does not mean forsaking the other for all eternity. There will always be chances in the future to reconnect. 
-
-Lesson is that both parties need to communicate and agree that their dreams may not workout but they still can hold onto their bonds of friendship.  Sotsu ends with a new version of You to fit into the new themes. 
-
-It can just be Ryukishi saw people still have clinging attachments to Higurashi and is telling us to move on to something new.
-</pre>
 </details>
 
 <br>
