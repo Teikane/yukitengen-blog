@@ -23,7 +23,7 @@ Well let us be honest these sets of Higurashi arcs are not the optimal place for
 
 Before Gou first aired, I was reading the Higurashi visual novel for the first time as the first arc was free on steam due to the pandemic. It was pleasant to revisit the series since it had been a long time Higurashi Kai and Rei aired. I found out a new Higurashi anime was releasing later in the year and was excited to see updated visuals. Higurashi Gou first aired and quickly became apparent it was not a remake by episode 2. I finished the original visual novel when the Gou's Onidanmashi arc finished. 
 
-Now armed with refresh knowledge of the original, I am able to recognize Gou presented lots of interesting changes. This increase my engagement with solving Higurashi's new mystery. I had an easier time seeing the differences and what really matters as I know the pieces that should be moving in the background. I would imagine a new viewer would be bogged down with comprehending the basic rules.
+Now armed with refresh knowledge of the original, I am able to recognize Gou presented lots of interesting changes. This increase my engagement with solving Higurashi's new mystery. I had an easier time seeing the differences and what really matters as I know the rules for the curse. I would imagine a new viewer would be bogged down with comprehending the basic rules.
 
 Gou was a lot of fun especially up until the final confirmation for the main culprit. The rest of Gou competently setups the motive and cause of the events. A new character shows up and starts saying things that implicate the larger meta world.
 
