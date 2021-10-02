@@ -24,3 +24,9 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# Added at 2021-10-01 20:25:51 -0700 by desktop-q2j00i1\sean:
+gem "webrick", "~> 1.7"
+
+# Added at 2021-10-01 20:30:28 -0700 by desktop-q2j00i1\sean:
+gem "kramdown-parser-gfm", "~> 1.1"
