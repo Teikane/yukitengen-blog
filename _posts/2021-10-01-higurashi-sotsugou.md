@@ -29,18 +29,22 @@ Gou was a lot of fun especially up until the final confirmation for the main cul
 
 I read Umineko as witch hunt was releasing the translations for the comiket versions so needed a refresher for that series as well. During the break for Sotsu, I went and reread Umineko and finally started Ciconia.
 
-Personally at the end of Gou, I felt like there was not a lot left as the last two Gou arcs essentially were enough as answer arcs. The When They Cry series has always been divided up into two categories the question and answer/core arcs. The question arcs is simply the mystery. The answer arcs presents a new story that provides larger hints or unveils events that recontextualize earlier arcs. Meakashi is the only original arc that told nearly the same story but with a different perspective. Even then Meakashi provided a decent chunk of backstory and world building.
+Personally at the end of Gou, I felt like there was not a lot left as the last two Gou arcs essentially were enough as answer arcs. The When They Cry series has always been divided up into two as the question and answer/core arcs. The question arcs is simply the mystery. The answer arcs presents a new story that provides larger hints or unveils events that recontextualize earlier arcs. Meakashi is the only original arc that told nearly the same story but with a different perspective. Even then Meakashi provided a decent chunk of backstory and world building.
 
-Now Sotsu issues stems from having to retrace very similar events. There are some tweaks and new scenes that keep things mildly interesting but there was no major build up to anything new for a large portion of Sotsu. The only major driving force was seeing how the big confrontation setup in Gou would play out which was not very engaging. I had a similar issue in mid to late parts of Meakashi as it is mainly rewatching events without any new information. It was probably more painful in Sotsu because the the episode was released weekly.
+Now Sotsu issues stems from having to retrace very similar events. There are some tweaks and new scenes that keep things mildly interesting but there was no major build up to anything new for a large portion of Sotsu. The only major driving force was seeing how the big confrontation setup in Gou would play out. I had a similar issue parts of Meakashi as it is mainly rewatching events without any new information. It was probably more painful in Sotsu because the the episode was released weekly.
 
 I have almost 100% convince myself Sotsu elongated setup solely to get episode 34 to fit in somehow. The final stretch of Sotsu was enjoyable and ended on a very higurashi themed ending.
 
 <details>
-  <summary>Click to show spoilers. Themes and Narrative</summary>
+  <summary>Click to show spoilers. Themes</summary>
 
 A theme in the original story is the lack in bonds and communication would lead to sin. Mental illnesses is also major motif. Gou and Sotsu is one way to logical follow up on these ideas. It is the excessive clinging to bonds that results in this round of tragedy. 
 
-Sotsu Episode 14 was a nice visual treat but it was mainly a flashy way of saying Rika and Satoko needed to confront each other. The root of the problem was shown during Satokowashi where Rika's dream and Satoko's dream are in conflict. Conflicts are bound to happen for even the simplest of reason as with Satoko refusal for academic study. Neither sides are in wrong at that point. Satoko faces deteriorating mental health due and has shown previous cases of abandonment. Audience can sympathize with Satoko. Once murder is used then it becomes harder to sympathize however the initial problem is still understandable.
+The root of the problem was shown during Satokowashi where Rika's dream and Satoko's dream are in conflict. Conflicts are bound to happen for even the simplest of reason as with Satoko refusal for academic study. Neither sides are in wrong at that point. Satoko faces deteriorating mental health and has shown previous cases of abandonment. Audience can sympathize with Satoko plight. Obviously the answer is not murder. It just creates a loop of tragedy. 
+
+Well murder in Gou and Sotsu has a different meaning compare to the original. Murder here is more metaphorical of Satoko sabotaging her relationship with Rika to get to accept Satoko's dream.
+
+It is only when Rika finally confronts Satoko Sotsu Episode 14 was a nice visual treat but it was mainly a flashy way of saying Rika and Satoko needed to confront each other. 
 
 Sotsu ends with a new version of You to fit into the themes. 
 </details>
