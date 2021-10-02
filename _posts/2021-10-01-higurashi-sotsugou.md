@@ -36,11 +36,9 @@ Personally at the end of Gou, I felt like there was not a lot left as the last t
 
 Half of Sotsu fun is the juxtaposition between redeeming Teppei and Satoko madness.
 
+<img src="/assets/img/uploads/enr8jw2vqaa9zxh.png">
+
 </details>
-
-![](/assets/img/uploads/enr8jw2vqaa9zxh.png)
-
-
 
 <br>
 
@@ -49,7 +47,7 @@ Now Sotsu issues stems from having to retrace very similar events. There are som
 <details>
   <summary>Click to show spoilers. Themes</summary>
 
-<p>A theme from the original story is the lack in bonds and communication would lead to sinful tragedy. Mental illnesses is also a major motif. Gou and Sotsu is one way to follow up on these ideas. It is the excessive clinging to bonds that results in this round of tragedy.</p>
+<pre>A theme from the original story is the lack in bonds and communication would lead to sinful tragedy. Mental illnesses is also a major motif. Gou and Sotsu is one way to follow up on these ideas. It is the excessive clinging to bonds that results in this round of tragedy.
 
 The root of the problem was shown during Satokowashi where Rika's dream and Satoko's dream are in conflict. A scenario that can occur during graduation where friends have to choose to split up for other life events. We are shown why Satoko does not like her lifestyle when following Rika to a strict school. Satoko faces deteriorating mental health with signs of abandonment and was not able to healthy cope with the new environment.
 
@@ -60,7 +58,7 @@ Sotsu Episode 14 was a nice visual treat but it was mainly a flashy way of sayin
 Lesson is that both parties need to communicate and agree that their dreams may not workout but they still can hold onto their bonds of friendship.  Sotsu ends with a new version of You to fit into the new themes. 
 
 It can just be Ryukishi saw people still have clinging attachments to Higurashi and is telling us to move on to something new.
-
+</pre>
 </details>
 
 <br>
