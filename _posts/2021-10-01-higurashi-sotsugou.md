@@ -40,13 +40,11 @@ I have almost 100% convince myself Sotsu elongated setup solely to get episode 3
 
 A theme in the original story is the lack in bonds and communication would lead to sin. Mental illnesses is also major motif. Gou and Sotsu is one way to logical follow up on these ideas. It is the excessive clinging to bonds that results in this round of tragedy. 
 
-The root of the problem was shown during Satokowashi where Rika's dream and Satoko's dream are in conflict. Conflicts are bound to happen for even the simplest of reason as with Satoko refusal for academic study. Neither sides are in wrong at that point. Satoko faces deteriorating mental health and has shown previous cases of abandonment. Audience can sympathize with Satoko plight. Obviously the answer is not murder. It just creates a loop of tragedy. 
+The root of the problem was shown during Satokowashi where Rika's dream and Satoko's dream are in conflict. A scenario that can occur during graduation where friends have to choose to split up or follow one another. We are shown why Satoko does not like her lifestyle following Rika. Satoko faces deteriorating mental health and with signs of abandonment. Audience can sympathize with Satoko plight. Obviously the answer is not murder. It just creates a loop of tragedy. 
 
-Well murder in Gou and Sotsu has a different meaning compare to the original. Murder here is more metaphorical of Satoko sabotaging her relationship with Rika to get to accept Satoko's dream.
+It is only when Rika finally confronts Satoko pushes the issue for an answer. Sotsu Episode 14 was a nice visual treat but it was mainly a flashy way of saying Rika and Satoko needed to confront each other. In the end both, parties have dreams in direct conflict. They express why the other is not able to fulfill each other's dream and the solution is to go their separate ways to purse the next best option. Moving on to their own lives does not mean forsaking the other for all eternity. There will always be chances in the future to reconnect. 
 
-It is only when Rika finally confronts Satoko Sotsu Episode 14 was a nice visual treat but it was mainly a flashy way of saying Rika and Satoko needed to confront each other. In the end both, parties have dreams in direct conflict. They express why the other is not able to fulfill each other's dream and the solution is to go their separate ways to purse the next best option. Lesson is that moving on to their own lives does not mean forsaking the other for all eternity. There will always be chances in the future to reconnect.
-
-Sotsu ends with a new version of You to fit into the themes. 
+Lesson is that both parties need to communicate and agree that their dreams may not workout but they still can hold onto their bonds.  Sotsu ends with a new version of You to fit into the themes. 
 </details>
 
 <br>
