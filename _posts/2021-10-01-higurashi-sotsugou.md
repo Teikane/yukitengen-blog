@@ -1,9 +1,28 @@
 ---
 layout: post
-title: Higurashi-sotsugou
+title: Thoughts Higurashi Gou and Sotsu
 author: kiet_nguyen
 date: 2021-10-01 10:45:32
-intro_paragraph: ""
-categories: anime, Higurashi, When They Cry, Thoughts
+intro_paragraph: "![Happy Rena](/assets/img/uploads/higurashi-when-they-cry-gou.png)"
+categories: anime, Higurashi, When They Cry, thoughts
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumo.
+Higurashi Sotsu has now concluded and that marks the end of the Higurashi Gou and Sotsu tale. Sotsu stumble its way through but wraps up Gou's story pleasantly.
+
+Well lets be honest these sets of Higurashi arcs are not the optimal place for a new person to jump into the franchise. Best place to start would be either to read the Higurashi visual novel or manga of the original Higurashi arcs. The 2006 anime by Studio Deen is passable for introducing Higurashi. Newcomers can still enjoy Gou and Sotsu as the main topic and conflict is mostly standalone from the original story. The major issue would be a lot of the characters and world are left underdeveloped as it was previously done in the original story.  There are also spoilers for the ending of the original story.
+
+Before Gou first aired, I was reading the Higurashi visual novel for the first time as the first arc was free on steam due to the pandemic. It was pleasant to revisit the series since it had been a long time Higurashi Kai and Rei aired. I found out a new Higurashi anime was releasing later in the year and was excited to see updated visuals. Higurashi Gou first aired and quickly became apparent it was not a remake by episode 2. I finished the original visual novel when the Gou's Onidanmashi arc finished. 
+
+Now armed with refresh knowledge of the original, I am able to recognize Gou presented lots of interesting changes. This increase my engagement with solving this new mystery Ryukishi has presented the audience. I was scrubbing and reviewing episodes just to find clues to this new mystery and speculate why things were so different.
+
+Gou was a lot of fun especially up until the final confirmation for the main culprit. The rest of Gou competently setups the motive and cause of the events. A new character shows up and starts saying things that implicate the larger meta world.
+
+I read Umineko as witch hunt was releasing the translations for the comiket versions. During the break for Sotsu, I went and reread Umineko and finally started Ciconia.
+
+Now Sotsu. Personally at the end of Gou I felt like there was not a lot left to be done as the last two Gou arcs essentially were enough as answer arcs. The When They Cry series has always been divided up into two categories the question and answer/core arcs. The question arcs is simply the mystery so straightforward. The answer arcs presents a mostly new story that recontextual 
+
+Higurashi Gou and Sotsu place in the When They Cry universe
+
+<details>
+  <summary>Click to show spoilers</summary>
+  Whatever
+</details>
