@@ -17,9 +17,10 @@ I will mark any spoilers like this
 
 <br>
 
-Well let us be honest these sets of Higurashi arcs are not the optimal place for a new person to jump into the franchise. Best place to start would be either to read the Higurashi visual novel or manga of the original Higurashi arcs. The 2006 anime by Studio Deen is passable for introducing Higurashi. Newcomers can still enjoy Gou and Sotsu as the main topic and conflict is mostly standalone from the original story. The major issue would be a lot of the characters and world are left underdeveloped as it was previously explored in the original story.  There are also spoilers for the ending of the original story.
+Well let us be honest these sets of Higurashi arcs are not the optimal place for a new person to jump into the franchise. Best place to start would be either to read the Higurashi visual novel or manga of the original Higurashi arcs. The 2006 anime by Studio Deen is passable for introducing Higurashi. Newcomers can still enjoy Gou and Sotsu as the main topic and conflict is mostly standalone from the original story. The major issue would be a lot of the characters and world are left underdeveloped as it was previously explored in the original story.  There are also spoilers for the ending of the original story. 
 
-![Manga Cover](https://upload.wikimedia.org/wikipedia/en/9/9b/Abducted_By_Demon_Arc_manga_1.png "Manga Cover")
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Abducted_By_Demon_Arc_manga_1.png" alt="Abducted By Demon Arc manga 1.png" style="width:200px;"></a>
+
 
 Before Gou first aired, I was reading the Higurashi visual novel for the first time as the first arc was free on steam due to the pandemic. It was pleasant to revisit the series since it had been a long time Higurashi Kai and Rei aired. Higurashi Gou aired and quickly became apparent it was not a remake by episode 2. I finished the original visual novel when Gou's first arc finished. 
 
@@ -38,14 +39,11 @@ Half of Sotsu fun is the juxtaposition between redeeming Teppei and Satoko madne
 
 ![](/assets/img/uploads/enr8jw2vqaa9zxh.png)
 
-
 </details>
 
 <br>
 
 Now Sotsu issues stems from having to retrace very similar events. There are some tweaks and new scenes that keep things mildly interesting but there was no build up to anything new for a large portion of Sotsu. The only driving force was the big confrontation setup in Gou. I had a similar issue with later parts of Meakashi as it is rewatching events without any new information. It was more painful in Sotsu because the the episode was released weekly. I have almost 100% convince myself Sotsu elongated setup solely to get episode 34 to fit in somehow.
-
-
 
 <details>
   <summary>Click to show spoilers. Themes</summary>
