@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Welcome
+title: Home
 permalink: /
 section: home
 intro_paragraph: >
