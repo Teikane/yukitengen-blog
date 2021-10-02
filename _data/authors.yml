@@ -11,5 +11,5 @@ john_doe:
     web: http://twitter.com/johndoe
 kiet_nguyen:
     name: Kiet Nguyen
-    email:
-    web:
+    email: a
+    web: a
