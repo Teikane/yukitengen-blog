@@ -38,7 +38,7 @@ I have almost 100% convince myself Sotsu elongated setup solely to get episode 3
 <details>
   <summary>Click to show spoilers. Themes and Narrative</summary>
 
-Original themes has always been friendship, communication, and sympathy.  Mental illiness is also a major motif.
+Original themes has always been a lack in bonds and communication would lead to sin. Mental illness and sympathy are also major motifs.
 
 You track was great. 
 
