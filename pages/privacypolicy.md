@@ -1,6 +1,6 @@
 ---
 layout: page
-title: privacy policy
+title: Privacy Policy
 meta_description: ""
 permalink: /privacypolicy
 section: privacy policy
