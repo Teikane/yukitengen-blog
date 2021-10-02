@@ -44,7 +44,7 @@ The root of the problem was shown during Satokowashi where Rika's dream and Sato
 
 Well murder in Gou and Sotsu has a different meaning compare to the original. Murder here is more metaphorical of Satoko sabotaging her relationship with Rika to get to accept Satoko's dream.
 
-It is only when Rika finally confronts Satoko Sotsu Episode 14 was a nice visual treat but it was mainly a flashy way of saying Rika and Satoko needed to confront each other. 
+It is only when Rika finally confronts Satoko Sotsu Episode 14 was a nice visual treat but it was mainly a flashy way of saying Rika and Satoko needed to confront each other. In the end both, parties have dreams in direct conflict. They express why the other is not able to fulfill each other's dream and the solution is to go their separate ways to purse the next best option. Lesson is that moving on to their own lives does not mean forsaking the other for all eternity. There will always be chances in the future to reconnect.
 
 Sotsu ends with a new version of You to fit into the themes. 
 </details>
