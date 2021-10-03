@@ -20,14 +20,12 @@ Alternative may not be my choice for number one visual novel but it still has ho
 
 ### Expectations for the anime
 
-It is worrying that only Alternative is being adapted as the audience should have an understanding difference between the two worlds.  This fear would have been alleviated if the Alternative anime had a decent run time. Alternative currently is projected to to have one cour. 
+It is worrying that only Alternative is being adapted as the audience should have an understanding difference between the two worlds.  This fear would have been alleviated if the Alternative anime has a decent run time. Alternative currently is projected to have one cour. 
 
-The episode count will be difficult with just Alternative 50 hour story and not counting the first two entries. Let us compare with the commonly considered successful visual novel adaption.
+The episode count will be difficult with Alternative 50 hour story and not even counting the first two entries. Let us compare with the commonly considered successful visual novel adaption.
 
 * Clannad is about 80 hours. It took 47 episodes to comfortable tell its story.
 * Steins;Gate is about 40 hours. It took 24 episodes to be an successful adaptation.
 * Fate/stay Night is about 80 hours. It took 50 episodes and three movies to fully adapt.
 
-1 episode set up the world
-
-2 episode plot academy
+Base on the trailer footage it safe to assume it is the start of Alternative up to Operation 21. Even cutting all the techno-babble scenes it will be a very tight.  Chances are very slim th
