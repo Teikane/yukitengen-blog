@@ -8,7 +8,7 @@ intro_paragraph: <img
   style="width:400px;">
 categories: anime, Muv-Luv, Fall2021
 ---
-Muv-Luv Alternative anime adaption is right around the corner. The first episode is set to air on October 7 2021. This will be the first time a mainline entry of the Muv-Luv series gets an anime. Previously only spinoffs Muv-Luv Alternative Total Eclipse and Schwarzesmarken had gotten the animation treatment.
+Muv-Luv Alternative anime adaptations is right around the corner. The first episode is set to air on October 7 2021. This will be the first time a mainline entry of the Muv-Luv series gets an anime. Previously only spinoffs Muv-Luv Alternative Total Eclipse and Schwarzesmarken had gotten the animation treatment.
 
 ### What is Muv-Luv?
 
@@ -28,4 +28,6 @@ The episode count will be difficult with Alternative 50 hour story and not even 
 * Steins;Gate is about 40 hours. It took 24 episodes to be an successful adaptation.
 * Fate/stay Night is about 80 hours. It took 50 episodes and three movies to fully adapt.
 
-Base on the trailer footage it safe to assume it is the start of Alternative up to Operation 21. Even cutting all the techno-babble scenes it will be a very tight.  Chances are very slim th
+Base on the trailer footage it safe to assume it is the start of Alternative up to Operation 21. Even cutting all the techno-babble scenes it will be very tight.  Chances are very slim this adaptations will have the same success as the other big visual novel adaptations.
+
+My expectations going into this anime is just have a good time seeing the battles animated. Hoping for some decent key moments animated well. I do not have high hopes in the anime conveying the story in a satisfying way.
