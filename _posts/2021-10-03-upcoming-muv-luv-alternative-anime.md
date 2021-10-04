@@ -18,10 +18,6 @@ Muv-Luv Alternative is consistently revered as one of the best visual novels. Se
 
 Alternative may not be my choice for number one visual novel but it still has holds an important place. Muv-Luv is very impressive with the mechanical execution of the visual novel. Other visual novel have not reach the same level even now. Alternative did away with the text box dating sim like dialogue interface and turn it more into of a pseudo anime. Alternative incorporate more film techniques to be more cinematic. The first two entries got an update in the steam release to match Alternative style.
 
-### Who is this anime for?
-
-Muv-Luv Integrate
-
 ### Expectations for the anime
 
 It is worrying that only Alternative is being adapted as the audience should have an understanding difference between the two worlds.  This fear would have been alleviated if the Alternative anime has a decent run time. Alternative currently is projected to have one cour. 
@@ -34,4 +30,6 @@ The episode count will be difficult with Alternative 50 hour story and not even 
 
 Base on the trailer footage it safe to assume it is the start of Alternative up to Operation 21. Even cutting all the techno-babble scenes it will be very tight.  Chances are very slim this adaptations will have the same success as the other big visual novel adaptations.
 
-My expectations going into this anime is just have a good time seeing the battles animated. Hoping for some decent key moments animated well. I do not have high hopes in the anime conveying the story in a satisfying way.
+My expectations going into this anime is just have a good time seeing the battles animated. Hoping for some decent key moments animated well. I do not have high hopes in the anime conveying the story in a satisfying way. 
+
+This anime is most likely to drum up attention to the upcoming visual novel Muv-Luv Integrate. Well now expectations are set so let us see how this anime will turn out.
