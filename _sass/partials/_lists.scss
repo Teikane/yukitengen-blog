@@ -1,0 +1,23 @@
+ul[name=postlist],
+ol[name=postlist],
+dl[name=postlist],
+ul[name=previousnextpost],
+ol[name=previousnextpost],
+dl[name=previousnextpost]
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+ul[name=postlist],
+ol[name=postlist],
+dl[name=postlist],
+ul[name=previousnextpost],
+ol[name=previousnextpost],
+dl[name=previousnextpost] {
+	list-style: none;
+}

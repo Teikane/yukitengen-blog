@@ -24,10 +24,9 @@ It is worrying that only Alternative is being adapted as the audience should hav
 
 The episode count will be difficult with Alternative 50 hour story and not even counting the first two entries. Let us compare with the commonly considered successful visual novel adaption.
 
-* Clannad is about 80 hours. It took 47 episodes to comfortable tell its story. 
 
-* Fate/stay Night is about 80 hours. It took 50 episodes and three movies to fully adapt.
-
+* Clannad is about 80 hours. It took 47 episodes to comfortable tell its story.
+* Fate/stay Night is about 80 hours. It took 50 episodes and three movies to fully adapt.<br>
 * Steins;Gate is about 40 hours. It took 24 episodes to be an successful adaptation.
 
 Base on the trailer footage it safe to assume it is the start of Alternative up to Operation 21. Even cutting all the techno-babble scenes it will be very tight.  Chances are very slim this adaptations will have the same success as the other big visual novel adaptations.
