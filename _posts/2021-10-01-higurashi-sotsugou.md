@@ -4,7 +4,7 @@ title: Thoughts Higurashi Gou and Sotsu
 author: kiet_nguyen
 date: 2021-10-01 10:45:32
 intro_paragraph: "![Happy Rena](/assets/img/uploads/higurashi-when-they-cry-gou.png)"
-tags: [Anime, Higurashi, When They Cry, thoughts]
+tags: [Anime, Higurashi, When-They-Cry, Thoughts]
 ---
 Higurashi Sotsu has now concluded and that marks the end of the Higurashi Gou and Sotsu tale. Sotsu stumble its way through but wraps up Gou's story pleasantly.
 
