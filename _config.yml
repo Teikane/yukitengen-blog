@@ -83,3 +83,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+collections:
+  tags:
+    output: true
+    permalink: tags/:path/

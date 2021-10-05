@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign author = site.data.authors[page.author] %}
 
 <h2>{{ page.title }}</h2>
@@ -14,6 +15,18 @@ layout: default
   </small>
 </time>
 
+	<div class="auto x tags">
+    {% for tag in page.tags %}
+      {% assign tag_slug = tag | slugify: "raw" %}
+			<a class="tag"
+			  href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+			  rel="category tag">
+			  #{{ tag }}
+			</a>
+    {% endfor %}
+	</div>
+
+<br>
 {% include page-intro.html %}
 
 {{ content }}

@@ -2,6 +2,8 @@
 
 - text: Home
   url: /
+- text: All Tags
+  url: /alltags
 - text: About
   url: /about
 #- text: Feedback

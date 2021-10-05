@@ -6,7 +6,7 @@ date: 2021-10-02 16:58:05
 intro_paragraph: <img
   src="https://static.wikia.nocookie.net/muvluv/images/a/a4/MLAKeyVisual.jpg/revision/latest?cb=20210908114805"
   style="width:400px;">
-categories: anime, Muv-Luv, Fall2021
+tags: [Anime, Muv-Luv, Fall-2021]
 ---
 Muv-Luv Alternative anime adaptations is right around the corner. The first episode is set to air on October 7 2021. This will be the first time a mainline entry of the Muv-Luv series gets an anime. Previously only spinoffs Muv-Luv Alternative Total Eclipse and Schwarzesmarken had gotten the animation treatment.
 
