@@ -5,7 +5,7 @@ author: kiet_nguyen
 date: 2021-10-07 17:38:53
 intro_paragraph: "![](/assets/img/uploads/muvluv.jpg)"
 ---
-Well interesting way to start this series. We get what seems like an anime original telling of the first BETA invasion of Japan. Does an cliff notes version of establishing the current state of the world. Better adaptation move as much as I love reading info dump lectures from the original it does not translate well to a tv format.
+Well interesting way to start this series. We get what seems like an anime original telling of the first BETA invasion of Japan. Does a cliff notes version of establishing the current state of the world. Better adaptation move as much as I love reading info dump lectures from the original it does not translate well to a tv format.
 
 ![](/assets/img/uploads/briefing.jpg)
 
