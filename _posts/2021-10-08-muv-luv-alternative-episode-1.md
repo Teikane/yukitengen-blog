@@ -4,6 +4,7 @@ title: Muv Luv Alternative Episode 1
 author: kiet_nguyen
 date: 2021-10-07 17:38:53
 intro_paragraph: "![](/assets/img/uploads/muvluv.jpg)"
+tags: [Anime, Muv-Luv]
 ---
 Well interesting way to start this series. We get what seems like an anime original telling of the first BETA invasion of Japan. Does a cliff notes version of establishing the current state of the world. Better adaptation move as much as I love reading info dump lectures from the original it does not translate well to a tv format.
 
