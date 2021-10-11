@@ -27,8 +27,7 @@ collections: # A list of collections the CMS should be able to edit
         options:
           - { label: "Kiet Nguyen", value: "kiet_nguyen" }
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
-      - {label: "Tags", name: "tags", widget: "markdown", required: false}
-
+      - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Categories", name: "categories", widget: "string", required: false}
