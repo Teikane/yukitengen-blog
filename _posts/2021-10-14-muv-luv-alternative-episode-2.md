@@ -34,7 +34,7 @@ Everyone sounds good and is accurately represented. I clapped when Norio Wakamot
 
 ![](/assets/img/uploads/MuvLuvA02/wakastare.jpg) 
 
-Wow animation in general is quite something as the studio must really be on a tight budget. It has a few rough spots. Mostly perspective and odd directing choices are the biggest offenders.
+Speaking of budget, animation in general is quite something as the studio must really be on a tight budget. It has a few rough spots. Mostly perspective and odd directing choices are the biggest offenders.
 
 Overall, a mediocre necessary episode with a nice final scene. I do not really like the ending theme too much. Only positive thing is the bunny girl. 
 
