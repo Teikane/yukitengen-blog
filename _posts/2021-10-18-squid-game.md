@@ -20,7 +20,19 @@ Alright, everything is setup to start discussing episode six. By episode six, th
 
 First up we have Deok-Su and his henchmen 278. Deok-Su believes the strongest is the most fit so he rules the group with violence and coercion. He gathered like minded followers who follow the strong but are looking to be the strongest themselves. It was mention in an earlier episode that Deok-Su has a likelihood of being usurp by his own group. We see it manifest here when henchmen 278 gets their chance to beat Deok-Su. We have a straightforward example of human capacity to be be cut throat ruthless at any given opportunities. Just as the last marble of this game shows Deok-Su got out only by luck. The one on top is only hanging there by mere chances and coincidences. Betrayal is a standard it is only a matter of time and chances.
 
-Next we move to Sang-woo and Ali. This dynamic is more complicated. Ali in a foreign country and working in dodgy manual labor. Six months of unpaid work yet preserve with it because there is opportunity for growth in a modern country. He is used to taking the lower position in a social dynamic. That is why Ali uses nim when talking to Sang-woo in episode two. In the same episode, Sang-woo listened and granted Ali's requests. Throughout the games Sang-woo and Gi-hun help supplement Ali's ignorance in Korean language and cultural games. That is why Ali sees these two people as reliable teammates and friends. 
+Next we move to Sang-woo and Ali. This dynamic is more complicated. Ali in a foreign country and working in dodgy manual labor. Six months of unpaid work yet preserve with it because there is opportunity for growth in a modern country. He is used to taking the lower position in a social dynamic. That is why Ali uses nim when talking to Sang-woo in episode two. In the same episode, Sang-woo listened and granted Ali's requests. Throughout the games Sang-woo and Gi-hun help supplement Ali's ignorance in Korean language and culture. That is why Ali sees these two people as reliable teammates begins forming bonds. 
+
+Sang-woo will help others when it is not detrimental to himself. Otherwise, he is always weighing the cost and benefit of all situation.  When Sang-woo starts to lose, he begins to be more agitated then talking his way out. Ali is not as very fluent because we see him multiple times stuttering or question the concepts of the conversation with Gi-hun helping him out. Ali also has been through almost all the ordeals with Sang-woo at this point so there is a level of trust. These two factor helps Sang-woo betray Ali's bonds. Here is case where humanity can form bonds to overcome challenges but is equally capable of betraying those bonds when it is detrimental.
+
+Sae Ji section: Self sacrificial. Attempt understand others and do good at the expense of oneself's well being.
+
+Gi-hun Il-nam: Betrayal and forgiveness the healing of trust and bonds.
+
+It goes in that specific order in the episode. It starts at one end of the scale the selfish betrayal. It moves to the muddy middle. It goes to the selfless sacrifice. Then finally the last is the lessons from the previous three. People have the capacity to betray and yet there are understandable reasons. Understanding those reasons may provide reasons for forgiveness. The one betrayed can also forgive. The betrayer can regain a part of their trust in humanity.
+
+
+
+
 
 Throughout the games the players play There are a lot of concepts in play so lets focus on a few. We observe players in stressful environment resort to horrendous acts of betrayal and evils to selfishly get ahead. On the flip side, there is also the human compassion for others and bonding in the face of adversity.
 
