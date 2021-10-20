@@ -28,14 +28,4 @@ Sae-byeok and Ji-Yeong is the other pair that closely resemble each other. They 
 
 Finally, we have Gi-hun and Il-nam pairing. We see Il-nam show signs of deteriorating mental faculties placing him in vulnerable position. The dynamic is very similar to Sang-woo and Ali.  Sang-woo is Gi-hun's foil. They both act similar but have differing core beliefs of the world.  Sang-woo acts for his own benefit and self-image. Gi-hun defaults to caring for other and takes action he views that will be beneficial to others. That does not automatically make Gi-hun a saint. He also has self preservation instinct. He is also looking for ways to survive this crisis with the only option of betraying his friend. Gi-hun is visibly remorseful at cheating Il-nam. We eventually end up seeing Il-nam confront Gi-hun on his betrayal yet still consider Gi-hun a friend. This gives way to the highest emotional point of the episode where Il-nam grants Gi-hun the winning condition based on the friendship they had together.
 
-The games wrap up in that specific order in the episode. It starts at one end of the scale the selfish betrayal. It moves to the pragmatic middle. Then it goes to the selfless sacrifice. Finally the last is the lessons from the previous three. People have the capacity to betray and yet everyone can connect and forgive. The betrayer is jaded by the world and seeks to protect themselves. The one betrayed can forgive. The betrayer can regain a part of their trust in humanity.
-
-Throughout the games the players play There are a lot of concepts in play so lets focus on a few. 
-
-Deok-Su and his goon: Betrayal as a given
-
-Cho Sang-woo and Ali Abdul: Betrayal of good faith and friendship
-
-Kang Sae-beyok and Ji-Yeong: Bonds of Friendship
-
-Seong Gi-hun and Oh Il-nam: Betrayal of Friendship yet the Bonds of Friendships.
+The games wrap up in that specific order in the episode. It starts at selfish betrayal end of the scale. It moves to the pragmatic middle. Then it goes to the selfless sacrifice. Finally the last is the lessons from the previous three. People have the capacity to betray and yet everyone can connect and forgive. The betrayer is jaded by the world and seeks to protect themselves. The one betrayed can connect, understand, and forgive. The forgiven betrayer can regain a part of their trust in humanity.
