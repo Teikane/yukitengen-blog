@@ -2,7 +2,7 @@
 layout: post
 title: Squid Game
 author: kiet_nguyen
-date: 2021-10-19 16:51:51
+date: 2021-10-20 19:52:03
 tags:
   - SquidGame
   - K-drama
@@ -12,9 +12,11 @@ Who is not talking about Squid Game right now. I learned about this show a few d
 
 ### Premises
 
-I did no research and dived straight into episode one. Squid Game at its core is essentially a battle royale death game. Now, I have seen many variations of the the battle royale genre such as Btooom, Liar Game, Mirai Nikki, Gamble Fish and Magical Girl Rising Project to name a few. It is a commonly used plot in manga around late 2000 to early 2010. Even now there new iterations of high stakes or death game. Typically, we get a group of people from all walks of life. A mix of environment, equipment, abilities, or rules to equalize the playing field. Usually ending in some human experiment, betting spectacle, or some divine joke. The setting lends itself to examine humanity when pushed to extreme conditions. 
+I did no research and dived straight into episode one. Squid Game at its core is essentially a battle royale death game. Now, I have seen many variations of the the battle royale genre such as Btooom, Liar Game, Mirai Nikki, Gamble Fish and Magical Girl Rising Project to name a few. It is a commonly used plot in manga around late 2000 to early 2010. Even now there new iterations of high stakes or death game. Typically, we get a group of people from all walks of life. A mix of environment, equipment, abilities, or rules to equalize the playing field. Usually ending in some human experiment, betting spectacle, or some divine joke. The setting typically lends itself to examine humanity when pushed to extreme conditions. 
 
 Squid Game follows the formula very well while being brutal so strong warning for graphic violence. Children games are used as the great equalizer due to the simple rules and appeals to nostalgia. We gather a varied casts of players that are knocked down and kept down by society. Our main cast, Seong Gi-hun a man who wants to be there for the people he cares but spiralling into gambling addiction to find a reversal in life. Cho Sang-woo, the village's prodigy, who landed a successful career but seems to have dipped into white collar crimes to maintain the good son facade. Kang Sae-byeok, a northern defector, involve in the underworld to gather her family for a new start. Oh Il-nam, an aged man, that wants to enjoy his remaining time. Jang Deok-Su, the thug and bully, a gangster who crossed some bigger thugs. Ali Abdul, the immigrant, working to support his family.  
+
+### A Marbalous Episode
 
 There is a pool of concepts Squid Game has thrown at the audience ranging from social economics to chasing joy and happiness. Today's topic of interest is the good and evil of humanity. We observe players in a stressful environment resort to horrendous acts of betrayal and evils to selfishly get ahead. On the flip side, there is also the human compassion for others and bonding in the face of adversity. Episode six is the prefect encapsulation of these themes. The episode had everyone pair up giving way to interesting dynamics.
 
@@ -30,12 +32,12 @@ Sang-woo is an interesting character but for brevity I will only touch upon his 
 
 The logical end in this dynamic is Sang-woo coming out on top by taking advantage of Ali's trust.  Humans are capable of forming bonds and equally capable of taking advantage of those bonds.
 
-### Connections and Understanding
+### Entrusting it All
 
-Sae-byeok and Ji-Yeong is a pair that closely resemble each other. Both are females that has built walls to shield themselves from the world due to their past hardships. We get a bonding moment where the two connect and listen to each other life stories and motivations. There is enough social clues to when Ji-Yeong decides the game who was going to advance from this pairing.  This pair demonstrates the human capacity to connect, understand each other, and be self sacrificial for another's benefit.
+Sae-byeok and Ji-Yeong is a pair that closely resemble each other. Both are females that has built walls to shield themselves from the world due to their past hardships. They agree to bet it all in a single round at the last moment. The two trade life stories to past the time. Sae-byeok motivations still remains gathering her family and starting a new life. Ji-Yeong wants to share a world Sae-byeok has not seen yet only to realize they can not leave together. Their conversation turns to Ji-Yeong's dysfunctional family dynamic as a nice juxtaposition. Family is the reason both end up in this death game.  It is the reason why Sae-byeok is driven while Ji-Yeong is lost. There are enough social clues see the outcome of this pair when Ji-Yeong decides on a game they can choose to lose. This pair demonstrates the human capacity to connect, understand each other, and be self sacrificial for another's benefit.
 
-### Forgiveness and Healing
+### Healing Humanity
 
-Finally, we have Gi-hun and Il-nam pairing. We see Il-nam show signs of deteriorating mental faculties placing him in vulnerable position. The dynamic is very similar to Sang-woo and Ali.  Sang-woo is Gi-hun's foil. They both act similar but have differing core beliefs of the world.  Sang-woo acts for his own benefit and self-image. Gi-hun defaults to caring for other and takes action, often ill advised, to the benefits of others. That does not automatically make Gi-hun a saint. He also has self preservation instinct. He is also looking for ways to survive this crisis leading to betraying his friend. We eventually end up seeing Il-nam confront Gi-hun on his betrayal yet still consider Gi-hun a friend. This gives way to the highest emotional point of the episode where Il-nam grants Gi-hun the winning condition based on the friendship they had together.
+Finally, we have Gi-hun and Il-nam pairing. We see Il-nam show signs of deteriorating mental faculties placing him in vulnerable position. The dynamic is very similar to Sang-woo and Ali.  Sang-woo is Gi-hun's foil. They both act similar but have differing core beliefs of the world.  Sang-woo acts for his own benefit and self-image. Gi-hun cares for other and takes action, often ill advised, for the benefits of others. That does not make Gi-hun a saint. He is also looking for ways to survive this game. Gi-hun takes advantage of Il-nam to escape his own death. The acting really sells this sequence as Gi-hun is visibly remorseful every time he cheats. This gives way to the highest emotional point of the episode where Il-nam confronts Gi-hun's betrayal. Gi-hun is crushed by guilt and it is Il-nam who gives the final marble in honor of their friendship. Friends can hurt each other and they can also reconcile past grievances.
 
-The marble games wrap up in that specific order in the episode. It starts at selfish betrayal end of the scale. It moves to the pragmatic middle. Then it goes to the selfless sacrifice. Finally the last is the lessons from the previous three. People have the capacity to betray and yet everyone can connect and forgive. The betrayer is jaded by the world and seeks to protect themselves. The one betrayed can connect, understand, and forgive. The forgiven can heal their trust in humanity.
+The marble games wrap up in that specific order in the episode. It starts at selfish betrayal end of the scale. It moves to the pragmatic middle. Then it goes to the selfless sacrifice. Finally the last is the lessons from the previous three. People have the capacity to betray and yet everyone can connect and forgive. The betrayer is jaded by the world and seeks to protect themselves. People can connect, understand, and forgive. The forgiven can heal their trust in humanity.
