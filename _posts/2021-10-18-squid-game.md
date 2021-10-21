@@ -2,7 +2,7 @@
 layout: post
 title: Squid Game
 author: kiet_nguyen
-date: 2021-10-20 19:52:03
+date: 2021-10-20 21:14:36
 tags:
   - SquidGame
   - K-drama
@@ -16,7 +16,7 @@ I did no research and dived straight into episode one. Squid Game at its core is
 
 Squid Game follows the formula very well while being brutal so strong warning for graphic violence. Children games are used as the great equalizer due to the simple rules and appeals to nostalgia. We gather a varied casts of players that are knocked down and kept down by society. Our main cast, Seong Gi-hun a man who wants to be there for the people he cares but spiralling into gambling addiction to find a reversal in life. Cho Sang-woo, the village's prodigy, who landed a successful career but seems to have dipped into white collar crimes to maintain the good son facade. Kang Sae-byeok, a northern defector, involve in the underworld to gather her family for a new start. Oh Il-nam, an aged man, that wants to enjoy his remaining time. Jang Deok-Su, the thug and bully, a gangster who crossed some bigger thugs. Ali Abdul, the immigrant, working to support his family.  
 
-### A Marbalous Episode
+### A Marbelous Episode
 
 There is a pool of concepts Squid Game has thrown at the audience ranging from social economics to chasing joy and happiness. Today's topic of interest is the good and evil of humanity. We observe players in a stressful environment resort to horrendous acts of betrayal and evils to selfishly get ahead. On the flip side, there is also the human compassion for others and bonding in the face of adversity. Episode six is the prefect encapsulation of these themes. The episode had everyone pair up giving way to interesting dynamics.
 
@@ -38,6 +38,6 @@ Sae-byeok and Ji-Yeong is a pair that closely resemble each other. Both are fema
 
 ### Healing Humanity
 
-Finally, we have Gi-hun and Il-nam pairing. We see Il-nam show signs of deteriorating mental faculties placing him in vulnerable position. The dynamic is very similar to Sang-woo and Ali.  Sang-woo is Gi-hun's foil. They both act similar but have differing core beliefs of the world.  Sang-woo acts for his own benefit and self-image. Gi-hun cares for other and takes action, often ill advised, for the benefits of others. That does not make Gi-hun a saint. He is also looking for ways to survive this game. Gi-hun takes advantage of Il-nam to escape his own death. The acting really sells this sequence as Gi-hun is visibly remorseful every time he cheats. This gives way to the highest emotional point of the episode where Il-nam confronts Gi-hun's betrayal. Gi-hun is crushed by guilt and it is Il-nam who gives the final marble in honor of their friendship. Friends can hurt each other and they can also reconcile past grievances.
+Finally, we have Gi-hun and Il-nam pairing. We see Il-nam show signs of deteriorating mental faculties placing him in vulnerable position. The dynamic is very similar to Sang-woo and Ali.  Sang-woo is Gi-hun's foil. They both act similar but have differing core beliefs of the world.  Sang-woo acts for his own benefit and self-image. Gi-hun cares for other and takes action, often ill advised, for the benefits of others. That does not make Gi-hun a saint. He is also looking for ways to survive this game. Gi-hun takes advantage of Il-nam to escape his own death. The acting really sells this sequence as Gi-hun is visibly remorseful every time he cheats. This gives way to the highest emotional point of the episode where Il-nam confronts Gi-hun's betrayal. Gi-hun is crushed by guilt and it is Il-nam who gives the final marble in honor of their friendship. The moment hits hard when we realize humans can understand and empathize with each other because it allows for forgiveness. Il-nam saves Gi-hun from the guilt and allows Gi-hun's heart to heal. Friends can hurt each other and they can also reconcile past grievances.
 
 The marble games wrap up in that specific order in the episode. It starts at selfish betrayal end of the scale. It moves to the pragmatic middle. Then it goes to the selfless sacrifice. Finally the last is the lessons from the previous three. People have the capacity to betray and yet everyone can connect and forgive. The betrayer is jaded by the world and seeks to protect themselves. People can connect, understand, and forgive. The forgiven can heal their trust in humanity.
